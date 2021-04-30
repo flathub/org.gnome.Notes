@@ -14,8 +14,8 @@
         "--talk-name=org.gtk.vfs.*",
         "--filesystem=host:ro",
         "--talk-name=org.gnome.OnlineAccounts",
-        "--talk-name=org.gnome.evolution.dataserver.AddressBook9",
-        "--talk-name=org.gnome.evolution.dataserver.Calendar7",
+        "--talk-name=org.gnome.evolution.dataserver.AddressBook10",
+        "--talk-name=org.gnome.evolution.dataserver.Calendar8",
         "--talk-name=org.gnome.evolution.dataserver.Sources5",
         "--talk-name=org.gnome.evolution.dataserver.Subprocess.Backend.*"
     ],
@@ -168,8 +168,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://download.gnome.org/sources/bijiben/40/bijiben-40.0.tar.xz",
-                    "sha256" : "aefa0ac451628c96e54e79ab544203cbad31551c8d9ad2d896ad71da0e110f25"
+                    "url" : "https://download.gnome.org/sources/bijiben/40/bijiben-40.1.tar.xz",
+                    "sha256" : "05a06fb066e9802f5f24ab67b0d2f71451866363ba3e39f9f775fd49a7587bbf"
                 }
             ]
         }

@@ -44,8 +44,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://download.gnome.org/sources/gnome-online-accounts/3.38/gnome-online-accounts-3.38.1.tar.xz",
-                    "sha256" : "e18889d67806da84d1261bfed1cf61d2baec131d2d0d0a92f83ff33d4649358e"
+                    "url" : "https://download.gnome.org/sources/gnome-online-accounts/3.40/gnome-online-accounts-3.40.0.tar.xz",
+                    "sha256" : "585c4f979f6f543b77bfdb4fb01eb18ba25c2aec5b7866c676d929616fb2c3fa"
                 }
             ]
         },
@@ -66,8 +66,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://github.com/libical/libical/releases/download/v3.0.7/libical-3.0.7.tar.gz",
-                    "sha256" : "0abe66df1ea826e57db7f281c704ede834c84139012e6c686ea7adafd4e763fc"
+                    "url" : "https://github.com/libical/libical/releases/download/v3.0.11/libical-3.0.11.tar.gz",
+                    "sha256" : "1e6c5e10c5a48f7a40c68958055f0e2759d9ab3563aca17273fe35a5df7dbbf1"
                 }
             ]
         },
@@ -98,8 +98,8 @@
             "sources" : [
                 {
                     "type" : "archive",
-                    "url" : "https://download.gnome.org/sources/evolution-data-server/3.40/evolution-data-server-3.40.0.tar.xz",
-                    "sha256" : "ed572f0cb6a2365809943449a8ccbee652681e2d9a1a7f4a54b60cbb53d87445"
+                    "url" : "https://download.gnome.org/sources/evolution-data-server/3.40/evolution-data-server-3.40.4.tar.xz",
+                    "sha256" : "87c185f18c37270e3611981f19bd9221ac974c807462c8dce90bea08712c5800"
                 }
             ]
         },

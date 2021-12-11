@@ -45,7 +45,11 @@
                 {
                     "type" : "archive",
                     "url" : "https://download.gnome.org/sources/gnome-online-accounts/3.40/gnome-online-accounts-3.40.0.tar.xz",
-                    "sha256" : "585c4f979f6f543b77bfdb4fb01eb18ba25c2aec5b7866c676d929616fb2c3fa"
+                    "sha256" : "585c4f979f6f543b77bfdb4fb01eb18ba25c2aec5b7866c676d929616fb2c3fa",
+                    "x-checker-data": {
+                        "type": "gnome",
+                        "name": "gnome-online-accounts"
+                    }
                 }
             ]
         },
@@ -99,7 +103,42 @@
                 {
                     "type" : "archive",
                     "url" : "https://download.gnome.org/sources/evolution-data-server/3.40/evolution-data-server-3.40.4.tar.xz",
-                    "sha256" : "87c185f18c37270e3611981f19bd9221ac974c807462c8dce90bea08712c5800"
+                    "sha256" : "87c185f18c37270e3611981f19bd9221ac974c807462c8dce90bea08712c5800",
+                    "x-checker-data": {
+                        "type": "gnome",
+                        "name": "evolution-data-server"
+                    }
+                }
+            ]
+        },
+        {
+            "name" : "tracker",
+            "buildsystem" : "meson",
+            "cleanup" : [
+                "/bin",
+                "/etc",
+                "/lib/systemd",
+                "/libexec",
+                "/share/dbus-1/services"
+            ],
+            "config-opts" : [
+                "--default-library=shared",
+                "-Ddocs=false",
+                "-Dman=false",
+                "-Dbash-completion=false",
+                "-Dsystemd_user_services=false",
+                "-Dtest_utils=false"
+            ],
+            "sources" : [
+                {
+                   "type" : "archive",
+                    "url" : "https://download.gnome.org/sources/tracker/3.1/tracker-3.1.0.tar.xz",
+                    "sha256" : "ca55eb95758747ef802af4b31fc085a8d56fb9f6d003be8fd3e91e32d2e42875",
+                    "x-checker-data": {
+                        "type": "gnome",
+                        "name": "tracker"
+                    }
+                    
                 }
             ]
         },
@@ -113,7 +152,11 @@
                 {
                     "type" : "archive",
                     "url" : "https://download.gnome.org/sources/bijiben/40/bijiben-40.1.tar.xz",
-                    "sha256" : "05a06fb066e9802f5f24ab67b0d2f71451866363ba3e39f9f775fd49a7587bbf"
+                    "sha256" : "05a06fb066e9802f5f24ab67b0d2f71451866363ba3e39f9f775fd49a7587bbf",
+                    "x-checker-data": {
+                        "type": "gnome",
+                        "name": "bijiben"
+                    }
                 }
             ]
         }

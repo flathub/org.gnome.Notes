@@ -157,6 +157,10 @@
                         "type": "gnome",
                         "name": "bijiben"
                     }
+                },
+                {
+                    "type": "patch",
+                    "path": "fd30f4cec81a6cefd383239a406dad0dc42dac6b.patch"
                 }
             ]
         }

@@ -156,6 +156,10 @@
                         "type": "gnome",
                         "name": "bijiben"
                     }
+                },
+                {
+                    "type": "patch",
+                    "path": "bijiben-appdata.patch"
                 }
             ]
         }

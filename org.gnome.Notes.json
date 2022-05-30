@@ -10,7 +10,6 @@
         "--socket=wayland",
         "--device=dri",
         "--share=network",
-        "--talk-name=org.gtk.vfs",
         "--talk-name=org.gtk.vfs.*",
         "--filesystem=host:ro",
         "--talk-name=org.gnome.OnlineAccounts",

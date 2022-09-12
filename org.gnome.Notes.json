@@ -101,8 +101,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/evolution-data-server/3.44/evolution-data-server-3.44.1.tar.xz",
-                    "sha256": "6e05a90204a276f99d932097f1032cc17dd1d8e265c7c56727c63240fd4c0ccf",
+                    "url": "https://download.gnome.org/sources/evolution-data-server/3.44/evolution-data-server-3.44.4.tar.xz",
+                    "sha256": "c0c6658838d58ba46042a4b9e50a3bb1129691e4cdb84b5eba0bf330b2ccb2eb",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "evolution-data-server"

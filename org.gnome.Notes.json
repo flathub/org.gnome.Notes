@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-online-accounts/3.44/gnome-online-accounts-3.44.0.tar.xz",
-                    "sha256": "381d5d4106f435b6f87786aa049be784774e15996adcc02789807afc87ea7342",
+                    "url": "https://download.gnome.org/sources/gnome-online-accounts/3.46/gnome-online-accounts-3.46.0.tar.xz",
+                    "sha256": "5e7859ce4858a6b99d3995ed70527d66e297bb90bbf75ec8780fe9da22c1fcaa",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-online-accounts"

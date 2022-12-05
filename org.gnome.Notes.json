@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/gnome-online-accounts/3.44/gnome-online-accounts-3.44.0.tar.xz",
-                    "sha256": "381d5d4106f435b6f87786aa049be784774e15996adcc02789807afc87ea7342",
+                    "url": "https://download.gnome.org/sources/gnome-online-accounts/3.46/gnome-online-accounts-3.46.0.tar.xz",
+                    "sha256": "5e7859ce4858a6b99d3995ed70527d66e297bb90bbf75ec8780fe9da22c1fcaa",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "gnome-online-accounts"
@@ -101,8 +101,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/evolution-data-server/3.44/evolution-data-server-3.44.1.tar.xz",
-                    "sha256": "6e05a90204a276f99d932097f1032cc17dd1d8e265c7c56727c63240fd4c0ccf",
+                    "url": "https://download.gnome.org/sources/evolution-data-server/3.46/evolution-data-server-3.46.2.tar.xz",
+                    "sha256": "f9bd52008b7e535d816920cfcec70a0e5562bde28af71f996e203ff6a86e46e0",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "evolution-data-server"
@@ -131,8 +131,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/tracker/3.1/tracker-3.1.0.tar.xz",
-                    "sha256": "ca55eb95758747ef802af4b31fc085a8d56fb9f6d003be8fd3e91e32d2e42875",
+                    "url": "https://download.gnome.org/sources/tracker/3.4/tracker-3.4.2.tar.xz",
+                    "sha256": "4e6df142a4f704878fca98ebb5a224750e5ea546aa2aaabaa726a73540bd1731",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "tracker"

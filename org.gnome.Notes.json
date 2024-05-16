@@ -165,7 +165,6 @@
                 "--default-library=shared",
                 "-Ddocs=false",
                 "-Dman=false",
-                "-Dbash-completion=false",
                 "-Dsystemd_user_services=false",
                 "-Dtest_utils=false"
             ],
